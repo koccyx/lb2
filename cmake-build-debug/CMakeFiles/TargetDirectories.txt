@@ -1,0 +1,3 @@
+/home/koccyx/Downloads/koccyx/lernin/3_semester/TIZD_ALL/TIZD_2/cmake-build-debug/CMakeFiles/TIZD_2.dir
+/home/koccyx/Downloads/koccyx/lernin/3_semester/TIZD_ALL/TIZD_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/koccyx/Downloads/koccyx/lernin/3_semester/TIZD_ALL/TIZD_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
